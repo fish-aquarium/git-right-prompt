@@ -1,2 +1,3 @@
-# fish-prompt
-My fish prompt for sharing with others
+# git-right-prompt
+
+Add git goodies to your right prompt.
